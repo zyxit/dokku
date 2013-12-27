@@ -1,0 +1,8 @@
+name: Dokku Development
+description: The latest updates in the world of dokku
+url: http://progrium.github.io/dokku
+baseurl: /dokku
+markdown: redcarpet
+pygments: true
+timezone: Etc/UTC
+encoding: UTF-8
